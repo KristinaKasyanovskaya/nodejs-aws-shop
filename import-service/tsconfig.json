@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist",
+    "rootDir": "./lambda",
+    "module": "CommonJS",
+    "target": "ES6",
+    "strict": true
+  },
+  "include": ["lambda/**/*.ts"]
+}
